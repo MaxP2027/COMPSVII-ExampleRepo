@@ -5,5 +5,4 @@ My Grocery List
 - Butter
 - Sugar
 - Lemons
-- DEMO
-- DEMO
+
